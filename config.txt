@@ -1,6 +1,6 @@
-token= NTM5MTE3NzA1MTA2Njg1OTgy.Dy9vVQ.4ING2l4QCefiPGU_d5X1wc6ChJ4
+token= 
 owner= 434642311591493632 
-prefix= mw
-game= Streaming . love
+prefix= 
+game= 
 stayinchannel=true 
 songinstatus=false 
