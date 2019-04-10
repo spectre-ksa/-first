@@ -1,6 +1,6 @@
-token= NTY1NDkyNTY5MzI1MzA1ODcx.XK3OEw.B4nEiaurupWh6xQ2WQvyyFX9OmA
+token= NTM5MTE3NzA1MTA2Njg1OTgy.Dy9vVQ.4ING2l4QCefiPGU_d5X1wc6ChJ4
 owner= 434642311591493632 
-prefix= 1
-game= 1help
+prefix= wm
+game= wmhelp
 stayinchannel=true 
 songinstatus=false 
