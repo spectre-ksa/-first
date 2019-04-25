@@ -1,5 +1,5 @@
 token= NTcxMDk1Njc0MTMzOTM4MTc2.XMIwVQ.4rTExR9P-E5PSY-j2GIhaaStsV0
-owner= 434642311591493632
+owner= 462010454093594626
 prefix= W
 game= Whelp
 stayinchannel=true 
